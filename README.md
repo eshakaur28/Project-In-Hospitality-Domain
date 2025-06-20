@@ -52,10 +52,10 @@ over total rooms booked.We have room classes like Standard, Elite, Premium, Pres
 
 **Total Metrics**:
 
-**Revenue**: 1.69bn
-**RevPar**: 7.34K
-**Occupancy**: 57.79%
-**ADR (Average Daily Rate)**: 12.70K
+ **Revenue**: 1.69bn
+ **RevPar**: 7.34K
+ **Occupancy**: 57.79%
+ **ADR (Average Daily Rate)**: 12.70K
 
  
 **Occupancy Split**:
