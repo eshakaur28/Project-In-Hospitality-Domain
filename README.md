@@ -50,6 +50,29 @@ over total rooms booked.We have room classes like Standard, Elite, Premium, Pres
 ## INSIGHTS 
 
 
+**Total Metrics**:
+
+**Revenue**: 1.69bn
+**RevPar**: 7.34K
+**Occupancy**: 57.79%
+**ADR (Average Daily Rate)**: 12.70K
+
+ 
+**Occupancy Split**:
+**Business**: ~58%
+**Luxury**: ~50%
+
+**Top Property Performers**:
+Atliq City and Atliq Palace have the highest revenue and ADR across locations (Bangalore, Delhi, Hyderabad), with occupancy rates >55%.
+
+**Time Period Analysis**:
+Occupancy trend is relatively stable (~55–65%), while ADR remains consistently higher across weeks.
+Weekends have higher Occupancy (62.64%) compared to weekdays (55.85%), indicating increased leisure activity.
+
+
+
+
+
 
 
 
